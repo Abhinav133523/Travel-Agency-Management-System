@@ -1,2 +1,2 @@
 # Travel-Agency-Management-System
-This a Travel Agency Management System. Built completely on Python and with the help of SQL for travling Application. Currently this Project Dosen't have any user interface.  
+This is a Travel Agency Management System built completely on Python and with the help of SQL for a travel Application. Currently, this Project doesn't have a user interface.  
